@@ -1,6 +1,6 @@
 # springboot-kafka-project
 
-This maven projects consisths of two sub modules/microservices.
+This maven projects consists of two sub modules/microservices.
 
-One of the service reads data from <h4>wikimedia</h4> recent changes an writes it to kafka.
-Second microservices consumes this data from beginning and after processing it, saves to database;
+One of the service reads data of WIKIMEDIA recent changes and writes it to kafka.
+Second microservices consumes this data from beginning, processes it and saves to database;
